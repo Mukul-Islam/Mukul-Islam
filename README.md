@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Mohammad Shamsuzzaman Mukul - Developer Banner"/>
+  <img src="./assets/Banner.png" width="100%" alt="Mohammad Shamsuzzaman Mukul - Developer Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohammad Shamsuzzaman Mukul</h1>
