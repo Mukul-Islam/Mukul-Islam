@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohammad Shamsuzzaman Mukul</h1>
-<h3 align="center">Learning Node.js| Passionate Frontend Web Developer | React Developer | Interested in full-stack-developer</h3>
+- 🔭 I’m currently working on **on React.js, Typescript for frontend development.**
+
+- 🌱 I’m currently learning **node.js, next.js**
+
+- 👨‍💻 All of my projects are available at [https://gilded-treacle-a3ef0d.netlify.app](https://gilded-treacle-a3ef0d.netlify.app)
+
+- 💬 Ask me about **react, typescript**
+
+- 📫 How to reach me **mukul9117@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
